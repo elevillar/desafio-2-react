@@ -3,7 +3,7 @@ import './App.css'
 import Registro from './components/Registro'
 
 const App = () => {
-  const [alert, setAlert] = useState({ error: '', msg: '', color: ''})
+  const [alert, setAlert] = useState({ error: '', msg: '', color: '' })
 
   return (
     <div>
